@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Project-Kombil
-- 👀 I’m interested in Cybersecurity 
+- 👀 I’m interested in UI/UD designs 
 - 🌱 I’m currently learning the Cloud Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alefay.bunes@gmail.com
