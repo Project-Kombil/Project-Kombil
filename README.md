@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Project-Kombil
-- 👀 I’m interested in UI/UX designs 
+- 👋 Hi, I’m Alefay Kombil
+- 📖 My interests lies in UI/UX designs  
 - 🌱 I’m currently learning the Cloud Technologies
-- 💞️ I’m looking to collaborate on front-end projects
+- 🤝 I’m looking to collaborate on front-end projects
 - 📫 How to reach me: alefay.bunes@gmail.com | alefay@project-kombil.com
 
 <!---
